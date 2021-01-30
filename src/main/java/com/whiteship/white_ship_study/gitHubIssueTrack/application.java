@@ -1,4 +1,4 @@
-package com.whiteship.white_ship_study.forthWeekHomeWork;
+package com.whiteship.white_ship_study.gitHubIssueTrack;
 
 import org.kohsuke.github.GHRepository;
 
