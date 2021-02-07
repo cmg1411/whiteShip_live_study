@@ -1,6 +1,7 @@
 package com.whiteship.white_ship_study.week11;
 
-public enum EnumEx {
+public enum Week {
+    BIRTHDAY("생요일"),
     MONDAY("월요일"),
     TUESDAY("화요일"),
     WEDNESDAY("수요일"),
@@ -11,11 +12,12 @@ public enum EnumEx {
 
     private String korean;
 
-    EnumEx(String korean) {
+    Week(String korean) {
         this.korean = korean;
     }
 
     public String getWeekKorean() {
         return korean;
     }
+
 }

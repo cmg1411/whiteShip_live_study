@@ -8,7 +8,6 @@ public class TypeSafeEnum {
 //        if (fruit_melon == music_melon) {
 //            System.out.println("이게 왜 같아!");
 //        }
-
     }
 }
 
