@@ -33,7 +33,7 @@
  - [x] 9주차 : [예외처리](https://alkhwa-113.tistory.com/entry/9%EC%A3%BC%EC%B0%A8-%EC%98%88%EC%99%B8-%EC%B2%98%EB%A6%AC?category=921157)
  - [x] 10주차 : [멀티스레드 프로그래밍](https://alkhwa-113.tistory.com/entry/10%EC%A3%BC%EC%B0%A8-%EB%A9%80%ED%8B%B0%EC%8A%A4%EB%A0%88%EB%93%9C-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D?category=921157)
  - [x] 11주차 : [enum](https://alkhwa-113.tistory.com/entry/11%EC%A3%BC%EC%B0%A8-enum?category=921157)
- - [x] 12주차 : [Annotation](https://alkhwa-113.tistory.com/entry/12%EC%A3%BC%EC%B0%A8-Annotation?category=921157)
+ - [x] 12주차 : [Annotation](https://alkhwa-113.tistory.com/entry/12%EC%A3%BC%EC%B0%A8-Annotation?category=921157), [서비스 로더](https://alkhwa-113.tistory.com/entry/ServiceLoader)
 
 <br>
 <br>
