@@ -1,5 +1,6 @@
 package com.whiteship.white_ship_study.week13.Reader;
 
+import java.io.BufferedReader;
 import java.io.FileReader;
 import java.io.Reader;
 
@@ -7,7 +8,6 @@ public class ReaderOff {
     public static void main(String[] args) throws Exception {
         try (Reader reader = new FileReader("/Users/tomas/Documents/gitLocalRepository/white_ship_study/src/main/java/com/whiteship/white_ship_study/week13/ab.txt")) {
             char[] cbuf = new char[5];
-
             int readData;
             int readCount = 0;
             while ((readData = reader.read(cbuf, 1, 3)) != -1) {
