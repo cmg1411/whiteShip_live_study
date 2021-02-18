@@ -1,4 +1,4 @@
-package com.whiteship.white_ship_study.week13.OutputStream;
+package com.whiteship.white_ship_study.week13.IO.OutputStream;
 
 import java.io.FileOutputStream;
 import java.io.OutputStream;

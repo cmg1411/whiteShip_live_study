@@ -1,4 +1,4 @@
-package com.whiteship.white_ship_study.week13.file;
+package com.whiteship.white_ship_study.week13.IO.file;
 
 import java.io.File;
 import java.io.IOException;

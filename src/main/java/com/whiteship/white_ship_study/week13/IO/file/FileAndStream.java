@@ -1,11 +1,9 @@
-package com.whiteship.white_ship_study.week13.file;
+package com.whiteship.white_ship_study.week13.IO.file;
 
 import java.io.File;
 import java.io.FileInputStream;
 import java.io.FileOutputStream;
 import java.io.IOException;
-import java.text.SimpleDateFormat;
-import java.util.Date;
 
 public class FileAndStream {
     public static void main(String[] args) throws IOException {

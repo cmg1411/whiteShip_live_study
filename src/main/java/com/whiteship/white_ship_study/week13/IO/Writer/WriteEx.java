@@ -1,6 +1,5 @@
-package com.whiteship.white_ship_study.week13.Writer;
+package com.whiteship.white_ship_study.week13.IO.Writer;
 
-import java.io.BufferedInputStream;
 import java.io.PrintStream;
 import java.util.Optional;
 

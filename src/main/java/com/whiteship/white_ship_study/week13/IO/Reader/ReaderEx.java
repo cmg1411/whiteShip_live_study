@@ -1,4 +1,4 @@
-package com.whiteship.white_ship_study.week13.Reader;
+package com.whiteship.white_ship_study.week13.IO.Reader;
 
 import java.io.FileReader;
 import java.io.Reader;

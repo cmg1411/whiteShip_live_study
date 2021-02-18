@@ -1,4 +1,4 @@
-package com.whiteship.white_ship_study.week13.standardio;
+package com.whiteship.white_ship_study.week13.IO.standardio;
 
 import java.io.*;
 
