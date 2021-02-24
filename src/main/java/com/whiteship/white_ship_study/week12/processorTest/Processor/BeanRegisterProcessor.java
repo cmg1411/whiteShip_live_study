@@ -38,7 +38,7 @@ public class BeanRegisterProcessor extends AbstractProcessor {
      */
     @Override
     public boolean process(Set<? extends TypeElement> annotations, RoundEnvironment roundEnv) {
-        // @BeanRegister 가 붙어있는 elements 를 읽어옴
+        // @BeanRegister 정보 읽어옴
         Set<? extends Element> elements = roundEnv.getElementsAnnotatedWith(com.register.beanregister.BeanRegister.class);
 
         // 반복문을 돌면서 하나하나 에너테이션에 대한 작업 실행
