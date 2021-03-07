@@ -14,7 +14,8 @@
 
 👆 기본서 기본 예제 수준을 넘어서 왜 자바를 그렇게 만들었는지를 공부하기  
 👆 자바가 우리를 위해 제공하는 다양한 기능들을 공부하기  
-👆 깊이 있는 자바 공부를 위해 !
+👆 깊이 있는 자바 공부를 위해 !  
+👆 [3.6 마지막 스터디를 끝내며. 후기]()
 
 <br>
 <br>
@@ -34,7 +35,10 @@
  - [x] 10주차 : [멀티스레드 프로그래밍](https://alkhwa-113.tistory.com/entry/10%EC%A3%BC%EC%B0%A8-%EB%A9%80%ED%8B%B0%EC%8A%A4%EB%A0%88%EB%93%9C-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D?category=921157)
  - [x] 11주차 : [enum](https://alkhwa-113.tistory.com/entry/11%EC%A3%BC%EC%B0%A8-enum?category=921157)
  - [x] 12주차 : [Annotation](https://alkhwa-113.tistory.com/entry/12%EC%A3%BC%EC%B0%A8-Annotation?category=921157), [서비스 로더](https://alkhwa-113.tistory.com/entry/ServiceLoader)
-
+ - [x] 13주차 : [IO](https://alkhwa-113.tistory.com/entry/IO), [NIO](https://alkhwa-113.tistory.com/entry/NIO)
+ - [x] 14주차 : [제네릭](https://alkhwa-113.tistory.com/entry/%EC%A0%9C%EB%84%A4%EB%A6%AD)
+ - [x] 15주차 : [람다식](https://alkhwa-113.tistory.com/entry/%EB%9E%8C%EB%8B%A4%EC%8B%9Dfeat-%EC%9D%B5%EB%AA%85-%EA%B5%AC%ED%98%84-%ED%81%B4%EB%9E%98%EC%8A%A4-vs-%EB%9E%8C%EB%8B%A4%EC%8B%9D)
+ - [후기]()
 <br>
 <br>
 
